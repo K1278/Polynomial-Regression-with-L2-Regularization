@@ -11,7 +11,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # READING DATA FROM CSV
-df = pd.read_csv(r"E:\BITS\Assignments\FoDS A1\Data.csv") # Enter the filepath of the dataset (and replace forward shalshes with backslashes)
+df = pd.read_csv(r"E:\BITS\Data.csv") # Enter the filepath of the dataset (and replace forward shalshes with backslashes)
 #print(df)
 
 
